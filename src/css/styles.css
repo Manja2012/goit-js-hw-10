@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+ background-color: rgb(4, 133, 90);
+}
+li {
+  list-style: none;
+}
+
+#search-box {
+  font: inherit;
+  padding: 8px;
+  max-width: 320px;
+  margin-bottom: 16px;
+  text-align: center;
+  font-size: 1rem;
+  margin-top: 3rem;
+  margin-left: 6rem;
+  padding: 0.5rem 0.5rem;
+  color: black;
+  border: 2px solid rgb(146, 148, 248);
+  border-radius: 5;
+}
+.country-image {
+  width: 50px;
+}
+.country-info {
+  margin-left: 6rem;
+}
